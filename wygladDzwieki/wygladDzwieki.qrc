@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/wygladDzwieki"/>
+    <qresource prefix="/obrazki">
+        <file>obrazki/pianinko.png</file>
+    </qresource>
+</RCC>
